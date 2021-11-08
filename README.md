@@ -6,7 +6,7 @@ Hey there 👋
 
 I’m Andy Do, a full-stack developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.]()
+Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/andy-do-7093b8195/)
 
 ## 📌 Pinned Repositories
 
@@ -18,7 +18,7 @@ Want to know more about me? [Check out my portfolio.]()
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=NodeJS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
