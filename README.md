@@ -24,7 +24,7 @@
 Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/andy-do-7093b8195/)
 
 ## 📌 Pinned Repositories
-<p font-style="italic">Update later...</p>
+<p style="font-style=italic">Update later...</p>
 <br>
 
 ## 💼 Skills
