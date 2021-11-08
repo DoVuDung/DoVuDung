@@ -1,5 +1,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AndyDo63909609)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andy-do-7093b8195/)
+  
+  
   <img src="https://images.pexels.com/photos/4776/man-sunglasses-art-graffiti.jpg?cs=srgb&dl=pexels-picography-4776.jpg&fm=jpg" alt="Andy Do" width="500">
    <p>Hey there 👋</p>
   <p> I’m Andy Do, a full-stack developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
