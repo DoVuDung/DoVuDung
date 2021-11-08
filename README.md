@@ -16,6 +16,9 @@
 Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/andy-do-7093b8195/)
 
 ## 📌 Pinned Repositories
+Badge | URL
+------------ | -------------
+<p>Tools Download torrent file</p> | ![](https://github.com/DoVuDung/Torrent-To-Google-Drive-Downloader)
 ```Update later...```
 <br>
 
