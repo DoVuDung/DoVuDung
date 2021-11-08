@@ -17,8 +17,8 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 ## 📌 Pinned Repositories
 Badge | URL
-<p>Tools Download torrent file</p> ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)| ![()](https://github.com/DoVuDung/Torrent-To-Google-Drive-Downloader)
 ------------ | -------------
+![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) | ![Tools Download torrent file](https://github.com/DoVuDung/Torrent-To-Google-Drive-Downloader)
 
 ```Update later...```
 <br>
