@@ -1,0 +1,84 @@
+{
+  "main": {
+    "name": "Andy Do",
+    "description": "I am a web developer and I use HTML, CSS, Javascript, React to develop pages. ",
+    "image": "profilepic.jpg",
+    "bio": "I’m Andy Do, a full-stack developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "github": "https://github.com/DoVuDung",
+   
+    "address": {
+      
+      "city": "Da Nang",
+      
+      "zip": "550000"
+    },
+    "website": "https://github.com/DoVuDung",
+    "resumedownload": "https://github.com/DoVuDung/DoVuDung/blob/master/DoVuDung_CV.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-facebook"
+      },
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andy-do-7093b8195/",
+        "className": "fa fa-linkedin"
+      },
+     
+      {
+        "name": "github",
+        "url": "https://github.com/DoVuDung",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "HTML, CSS, JavaScript, React, UI/UX, Github, GitLab",
+    "education": [
+      {
+        "school": "DTU University",
+        "degree": "Bachelor Degree Information Technology",
+        "graduated": "June 2022",
+        "description": "I really love my degree"
+      }
+  
+    ],
+    
+    
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  }
+}
